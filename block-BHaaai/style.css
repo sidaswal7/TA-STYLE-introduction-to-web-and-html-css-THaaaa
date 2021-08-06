@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(0, 38,94);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+address {
+    color: white;
+    text-align: center;
+}
+h2 {
+    color: limegreen;
+}
+h3{
+    color: white;
+}
+p {
+    color: white;
+}
+
+.under {
+    color: red;
+    text-align: center;
+}
+
+
+.dark {
+    background-color:rgb(0, 38,52);
+}
+
+.phto {
+    text-align: center;
+}
