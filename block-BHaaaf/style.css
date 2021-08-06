@@ -1,0 +1,15 @@
+.heading {
+    color: red;
+    font-size: 40px;
+}
+body {
+    background-color: seagreen;
+}
+p {
+    font-size: 25px;
+    color: white;
+}
+#special {
+    font-size: 25px;
+    color: black;
+}
